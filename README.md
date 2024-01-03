@@ -6,8 +6,7 @@ Welcome to the Bus Reservation System, a command-line application written in C t
 
 - [Features](#features)
 - [How to Use](#how-to-use)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## Features
 
